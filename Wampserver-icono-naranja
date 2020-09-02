@@ -7,3 +7,5 @@ Buscar 3306 y reemplazar por 3307
 Abrir la carpeta de wamp en C:
 Abrir WAMPSERVERMANAGER.TLP
 buscar localhost y reemplazar por localhost:8080
+
+Abrir Apache > service > start :)

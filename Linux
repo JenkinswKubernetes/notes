@@ -1,0 +1,3 @@
+Archivos deb
+
+dpkg -i archivo.deb

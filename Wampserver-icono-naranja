@@ -1,0 +1,9 @@
+Abrir APACHE > HTTPD.CONF
+Buscar localhost y reemplazar el puerto con 8080
+
+Abrir MySQL > PHP.INI
+Buscar 3306 y reemplazar por 3307
+
+Abrir la carpeta de wamp en C:
+Abrir WAMPSERVERMANAGER.TLP
+buscar localhost y reemplazar por localhost:8080
